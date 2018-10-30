@@ -101,13 +101,13 @@
         <location filename="../AddRecordDialog.cpp" line="211"/>
         <source>Unique constraint
 </source>
-        <translation>Constraint unico</translation>
+        <translation>Vincolo unico</translation>
     </message>
     <message>
         <location filename="../AddRecordDialog.cpp" line="214"/>
         <source>Check constraint:	 %1
 </source>
-        <translation>Controlla constraint:	 %1</translation>
+        <translation>Controlla vincolo:	 %1</translation>
     </message>
     <message>
         <location filename="../AddRecordDialog.cpp" line="218"/>
@@ -1158,7 +1158,7 @@ Errors are indicated with a red squiggle underline.</source>
     <message>
         <location filename="../EditTableDialog.ui" line="289"/>
         <source>Check constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla vincolo</translation>
     </message>
     <message>
         <location filename="../EditTableDialog.ui" line="294"/>
@@ -3486,7 +3486,7 @@ If you answer no we will attempt to import the data in the SQL file to the curre
     <message>
         <location filename="../MainWindow.cpp" line="1678"/>
         <source>Import completed. Some foreign key constraints are violated. Please fix them before saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione completata. Alcuni vincoli relativi a chiavi esterne sono stati violati. Prima di salvare correggi questi errori</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="1680"/>
